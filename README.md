@@ -1,6 +1,6 @@
 # Active-listener-LLM-VAD
 Real-time voice assistant with barge-in support for service robotics
-Speak naturally — interrupt the bot mid-sentence just like a human conversation.
+Speak naturally - interrupt the bot mid-sentence just like a human conversation.
 
 ## How it works
 - Microphone is always listening using WebRTC VAD
