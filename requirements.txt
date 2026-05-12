@@ -1,0 +1,6 @@
+sounddevice
+webrtcvad-wheels
+openai-whisper
+transformers
+torch
+numpy
